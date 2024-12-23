@@ -21,3 +21,7 @@ $$$ PASSO A PASSO
 Criptografado:
 ![Criptografado](https://github.com/user-attachments/assets/b6dd2db0-7c11-4456-b635-2eea89d6b2d9)
 
+Descriptografado:
+![Descriptografado](https://github.com/user-attachments/assets/9e254c87-5ea2-4e2b-bdba-e57f8cef2651)
+
+
