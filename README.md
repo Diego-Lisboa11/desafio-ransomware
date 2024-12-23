@@ -17,4 +17,7 @@ $$$ PASSO A PASSO
 * Para ver se deu certo usar o comando pra listar os arquivos: ls
 * Ver se o conteúdo foi criptografado: nano teste.txt.("o nome que voce escolheu")
 * Para descriptografar o conteúdo usar o comando: python decrypter.py
+  
+Criptografado:
+![Criptografado](https://github.com/user-attachments/assets/b6dd2db0-7c11-4456-b635-2eea89d6b2d9)
 
